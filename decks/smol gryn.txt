@@ -1,0 +1,25 @@
+Deck
+3 Giant Growth (WAR) 162
+24 Forest (ELD) 269
+1 Sedge Scorpion (M20) 192
+3 Barkhide Troll (M20) 165
+1 Fell the Pheasant (ELD) 153
+2 Greenwood Sentinel (M20) 174
+4 Growth Cycle (M20) 175
+1 Insatiable Appetite (ELD) 162
+1 Plummet (M20) 188
+4 Rabid Bite (M20) 190
+1 Return to Nature (ELD) 173
+1 Season of Growth (M20) 191
+1 Loaming Shaman (M20) 180
+1 Natural End (M20) 183
+1 Netcaster Spider (M20) 184
+3 Oakenform (M20) 341
+1 Sporecap Spider (ELD) 176
+2 Aggressive Mammoth (M20) 337
+1 Prized Unicorn (M20) 342
+1 Wakeroot Elemental (M20) 202
+1 Gargos, Vicious Watcher (M20) 172
+1 Silverback Shaman (M20) 195
+1 Voracious Hydra (M20) 200
+

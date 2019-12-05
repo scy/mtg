@@ -1,0 +1,39 @@
+Deck
+1 Mace of the Valiant (ELD) 314
+1 Silverflame Ritual (ELD) 30
+1 Crashing Drawbridge (ELD) 217
+1 Heraldic Banner (ELD) 222
+2 Edgewall Innkeeper (ELD) 151
+1 Flaxen Intruder (ELD) 155
+1 Curious Pair (ELD) 150
+1 Fell the Pheasant (ELD) 153
+2 Insatiable Appetite (ELD) 162
+1 Return to Nature (ELD) 173
+2 The Circle of Loyalty (ELD) 9
+1 Giant Opportunity (ELD) 159
+1 Lovestruck Beast (ELD) 165
+2 Oakhame Ranger (ELD) 212
+1 Faeburrow Elder (ELD) 190
+2 Faerie Guidemother (ELD) 11
+2 Linden, the Steadfast Queen (ELD) 20
+4 Righteousness (ELD) 27
+4 Outflank (ELD) 23
+2 Trapped in the Tower (ELD) 33
+4 Fortifying Provisions (ELD) 13
+2 Rally for the Throne (ELD) 25
+2 Ardenvale Paladin (ELD) 4
+1 Syr Alin, the Lion's Claw (ELD) 32
+1 Castle Ardenvale (ELD) 238
+1 Venerable Knight (ELD) 35
+3 Forest (ELD) 269
+4 Youthful Knight (ELD) 37
+4 Beloved Princess (ELD) 7
+1 Knight of the Keep (ELD) 19
+2 Forest (ELD) 268
+2 Forest (ELD) 267
+3 Forest (ELD) 266
+2 Plains (ELD) 250
+3 Plains (ELD) 251
+3 Plains (ELD) 252
+2 Plains (ELD) 253
+
