@@ -1,23 +1,17 @@
 Deck
-4 Charmed Stray (WAR) 8
-25 Plains (ELD) 253
-1 Healer's Hawk (GRN) 14
+22 Plains (ELD) 253
+4 Healer's Hawk (GRN) 14
 1 Outflank (ELD) 23
-2 Tactical Advantage (ANA) 12
+1 Tactical Advantage (ANA) 12
 4 Ajani's Pridemate (WAR) 4
 1 Angelic Gift (M20) 5
 1 Dawn of Hope (GRN) 8
-3 Fencing Ace (M20) 16
+2 Fencing Ace (M20) 16
 3 Angel of Vitality (M20) 4
 4 Impassioned Orator (RNA) 12
 4 Pacifism (M20) 32
 4 Moment of Heroism (M20) 30
-1 Beloved Princess (ELD) 7
-1 Devout Decree (M20) 13
-1 Dawning Angel (M20) 11
-1 Serra Angel (ANA) 9
-1 Confront the Assault (ANA) 3
+4 Charmed Stray (WAR) 8
 2 Take Heart (GRN) 28
 1 Mace of the Valiant (ELD) 314
 2 Linden, the Steadfast Queen (ELD) 20
-
